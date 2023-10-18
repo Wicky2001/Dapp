@@ -22,7 +22,8 @@ The DApp is live at [https://7hnsi-aiaaa-aaaap-qbudq-cai.icp0.io/](https://7hnsi
 
 Here are some screenshots of the DApp in action:
 
-- [Screenshot 1](screenshots/Screenshot.png)
+![Screenshot 1](./screenshots/Screenshot.png)
+
 
 
 ## Getting Started
@@ -39,9 +40,8 @@ for more information refer difinity documentation - `https://internetcomputer.or
 
 ## Usage
 
-1. Register or log in to your account.
-2. Store money in your account.
-3. Retrieve money from your account.
+1. Store money in your account.
+2. Retrieve money from your account.
 
 ## Contributing
 
